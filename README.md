@@ -15,3 +15,10 @@ Con este proyecto buscamos demostrar una aplicación practica de la electronica 
  |1|Arduino IDE|2.3.2|IDE (Entorno de Desarrollo Integrado)|
  |2|Node Red|3.1.5|Plataforma de desarrollo y automatización de flujos de trabajo|
  |3|Python|3.12.2|Lenguaje de programación de alto nivel e interpretado|
+
+
+ ## Prototipo
+ <img width="582" alt="IoT" src="https://github.com/FerFoess/IoT_SistemaMonitor/assets/135056080/f27c504b-7ab6-4211-8b48-3871c6cab140">
+
+## Diagrama
+![diagrama](https://github.com/FerFoess/IoT_SistemaMonitor/assets/135056080/13e7550a-614f-48cb-a84f-a927a064ef24)
